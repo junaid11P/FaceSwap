@@ -1,6 +1,6 @@
 # FaceSwap
 
-## Example Output
+## Output
 
 Below is an example of the FaceSwap output:
 

@@ -4,4 +4,4 @@
 
 Below is an example of the FaceSwap output:
 
-![FaceSwap Output](assets/output_example.png)
+![FaceSwap Output] <img src="Output.png" alt="Outside" width="300"/>
